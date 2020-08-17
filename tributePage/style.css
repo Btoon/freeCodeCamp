@@ -1,0 +1,43 @@
+#tribute-info{
+    background:#EEEEEE;
+    
+}
+#title{
+    text-align: center;
+}
+
+#image{
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+figcaption{
+    text-align: center;
+    margin-top: 1%;
+}
+
+h2{
+    text-align: center;
+    margin-top: 3%;
+    
+}
+
+ul{
+    max-width: 550px;
+    text-align: left;
+    margin: 0 auto 0 auto;
+}
+
+blockquote{
+    margin-top: 5%;
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    margin-top: 4%;
+    font-weight: bold;
+}
+
